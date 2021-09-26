@@ -22,4 +22,13 @@
     -->
     <integer name="config_fingerprintSensorLocation">0</integer>
 
+    <!-- AncientOS Device Info -->
+    <string name="ancient_device_name_summary">Realme 3 Pro</string>
+    <string name="ancient_chipset_type_summary">Qualcomm Snapdragon™ 710</string>
+    <string name="ancient_gpu_summary">Adreno 616</string>
+    <string name="ancient_camera_mp_summary">16+5MP Dual Camera</string>
+    <string name="ancient_screen_type_summary">IPS LCD FHD+ 6.3</string>
+
+    <!-- AncientOS About Maintainer Info -->
+    <string name="maintainer_name">TheTablaster</string>
 </resources>
